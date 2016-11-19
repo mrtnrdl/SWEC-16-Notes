@@ -47,5 +47,6 @@
 
 #### The pieces
 - Component: controls a view
+	
 	@Component Annotation
 -  
