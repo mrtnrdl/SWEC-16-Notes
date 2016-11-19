@@ -49,7 +49,8 @@
 - Metadata
 - Templates: HTML/CSSi
 - Angular handles the dependency injection
-- _The Rest is plain dart_
--
+- The Rest is plain dart
 
-
+## Summary
+- beatiful, easy to learn leanguage
+- lots of fun with angular and dart - even for backend devs.
