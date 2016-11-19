@@ -19,4 +19,11 @@
 - everybody has all the code
 
 ### Tools
-- piper: The repository
+- piper: The repository; chrome, google drive, etc. Everything is there.
+	- sync changes
+	- write code
+	- code review
+	- commit
+- tool based code review
+- clients in the cloud
+
