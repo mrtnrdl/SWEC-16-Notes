@@ -26,4 +26,11 @@
 	- commit
 - tool based code review
 - clients in the cloud
-
+	The whole workspace of every developer is cloud based
+	- code analysis
+	- editing
+	- collaborating
+- explore
+	searching and navigating through the code is also cloud base
+	- searching for reg-ex-patterns, class names, etc. 
+	- ctrl + click etc. works as expected
