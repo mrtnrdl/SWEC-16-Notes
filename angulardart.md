@@ -25,4 +25,13 @@
     Person(this.name, this.county, this.age)); // example constructor
 
 - Named constructors
--
+- Factory pattern for constructors
+- cascades
+	.. operator
+	references last object
+- if null operators
+- first class functions; reasonable clojures
+- Async
+	- async and await keywords
+	- Future and Stream are the main classes
+
