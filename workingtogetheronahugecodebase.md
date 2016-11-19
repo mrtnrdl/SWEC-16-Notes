@@ -59,5 +59,10 @@
 - keeping things performant at this scale is hard
 - there are teams who will work full-time on optimizing for everybody. BUT: small improvements for every developer will be a huge improvement. 
 
+### Wrap Up
+If you like a process, you have to automate it. 
+
 ### Misc
 - It's possible to code on a 'regular' ide.
+- cherry picking from trunk to release branches is usually for priority bug fixes
+- 'it depends' is the ultimate truth ;)
