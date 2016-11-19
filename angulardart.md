@@ -44,9 +44,12 @@
 
 
 ### Dart with Angular
+- Component: controls a view; @Component Annotation
+- Binding: TwoWay
+- Metadata
+- Templates: HTML/CSSi
+- Angular handles the dependency injection
+- _The Rest is plain dart_
+-
 
-#### The pieces
-- Component: controls a view
-	
-	@Component Annotation
--  
+
