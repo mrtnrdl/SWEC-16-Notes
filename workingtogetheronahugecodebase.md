@@ -1,7 +1,6 @@
 # Working together on a huge codebase 
 
-## Table of Contents
-
+Laura Lowenthal
 
 ## Size
 - 3 billion lines of code
@@ -66,3 +65,4 @@ If you like a process, you have to automate it.
 - It's possible to code on a 'regular' ide.
 - cherry picking from trunk to release branches is usually for priority bug fixes
 - 'it depends' is the ultimate truth ;)
+
