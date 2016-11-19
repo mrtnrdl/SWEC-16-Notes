@@ -36,7 +36,7 @@
 	- ctrl + click etc. works as expected
 	- looks more and more like an ide --> syntax highlighting etc.
 
-## Opinions
+## Opinions and experiences
 - It's okay: Not as unmanagable as you would think
 - agility and release cycles are different betweend different teams
 
@@ -47,6 +47,7 @@
 - sometimes review is like an fyi
 - everybody can review
 - looks good to me + owners approval = merge
+- each team is responsible for the quality of it's work
 -
 
 ### Misc
