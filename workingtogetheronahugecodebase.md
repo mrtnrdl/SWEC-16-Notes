@@ -35,6 +35,7 @@
 	- searching for reg-ex-patterns, class names, etc. 
 	- ctrl + click etc. works as expected
 	- looks more and more like an ide --> syntax highlighting etc.
+- pre and post commit checks keep the trunk in a working state
 
 ## Opinions and experiences
 - It's okay: Not as unmanagable as you would think
@@ -48,7 +49,15 @@
 - everybody can review
 - looks good to me + owners approval = merge
 - each team is responsible for the quality of it's work
--
+- author chooses reviewers
+
+### The joys of a huge codebase and team
+- lots of knowledge
+- automated tests and reviews keep standards high
+
+### the struggle
+- keeping things performant at this scale is hard
+- there are teams who will work full-time on optimizing for everybody. BUT: small improvements for every developer will be a huge improvement. 
 
 ### Misc
 - It's possible to code on a 'regular' ide.
