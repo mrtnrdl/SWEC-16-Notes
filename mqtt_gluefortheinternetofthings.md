@@ -54,7 +54,14 @@ Desktop Anwendung fuer macOS/Linux/Windows.
 - Auch JavaFX
 - Gluon: JavaFX kompiliert fuer Desktop/Android/iOS
 
+## Data Visualization
+- Raspberry Pi 3
+- Elastic Search und Kibana
+- Alternativ: Grafana und InfluxDB
+
 ## Misc
 (Commodore plus 4)[https://en.wikipedia.org/wiki/Commodore_Plus/4]
 (ESP8266)[https://www.sparkfun.com/products/13678]: Arduino-kompatibel mit Wifi Stacki
 (Mosquitto)[https://mosquitto.org/]: Open Source MQTT Broker
+
+jensd.de
