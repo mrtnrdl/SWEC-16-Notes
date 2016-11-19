@@ -11,14 +11,14 @@
 - Frontend Development does not have to be a mess ;)
 
 
-## Introduction to AngularDart
+## Introduction to Dart
 
-### About Dart
+### About
 - programming language
 - familiar to java/c# devs
 - not verbose
 
-#### Cool Stuff
+### Cool Stuff in Dart
 - Supports string interpolation
 - String interpolation works also with classes
 - Constructors with less repetition
@@ -35,3 +35,17 @@
 	- async and await keywords
 	- Future and Stream are the main classes
 
+## Dart with AngularJS
+
+### AngularJS
+- Framework for front ends
+- works with dart, typescript, javascript
+- template base
+
+
+### Dart with Angular
+
+#### The pieces
+- Component: controls a view
+	@Component Annotation
+-  
