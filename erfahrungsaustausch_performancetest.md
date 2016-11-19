@@ -1,5 +1,7 @@
 # Erfahrungsaustausch zu Performancetests und -analyse
 
+Performance heisst mehr als Antwortzeit... 
+
 ## Vorgehen
 - Identifizieren
 - Priorisieren
@@ -8,8 +10,6 @@
 
 ## Wie kann man priorisieren?
 Metriken aus der fachlichkeit. Was wird viel ausgefuehrt? Wo schmerzt schlechte Performance am meisten?
-
-
 
 
 ## Tools
@@ -23,3 +23,4 @@ Metriken aus der fachlichkeit. Was wird viel ausgefuehrt? Wo schmerzt schlechte 
 - (Software Performance Meetup Muenchen)[https://www.meetup.com/de-DE/Software-Performance-Meetup-Group/]
 - (The every computer performance book)[https://www.amazon.com/Every-Computer-Performance-Book-Wescott/dp/1482657759]
 - (Develop an effective performance engineering)[https://vimeo.com/167319431]
+
