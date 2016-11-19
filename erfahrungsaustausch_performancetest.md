@@ -6,11 +6,13 @@
 
 ## Tools
 - (PinPoint)[https://github.com/naver/pinpoint]
--
+- (perfino)[https://www.ej-technologies.com/products/perfino/overview.html]
+- dynatrace
+- appdynamics
 
 
-## Loesungen
-
+## Communities
+- (Software Performance Meetup Muenchen)[https://www.meetup.com/de-DE/Software-Performance-Meetup-Group/]
 
 
 ## Misc
