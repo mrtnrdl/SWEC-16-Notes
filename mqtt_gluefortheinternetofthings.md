@@ -50,7 +50,9 @@ Desktop Anwendung fuer macOS/Linux/Windows.
 - broker status
 - log
 
-
+## Weitere Clients
+- Auch JavaFX
+- Gluon: JavaFX kompiliert fuer Desktop/Android/iOS
 
 ## Misc
 (Commodore plus 4)[https://en.wikipedia.org/wiki/Commodore_Plus/4]
