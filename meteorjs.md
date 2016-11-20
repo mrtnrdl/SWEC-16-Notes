@@ -11,6 +11,10 @@ Presenter: Wok
 
 ## Ausgangslage
 Was ist Meteor?
+	- one lanague for client and server
+	- full stack reactivity
+	- database everywhere
+	- data on the wire
 
 
 ## Fragen
