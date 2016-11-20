@@ -1,6 +1,6 @@
 # Working together on a huge codebase 
 
-Laura Lowenthal
+(Laura Lowenthal)[https://twitter.com/laulowen]
 
 ## Size
 - 3 billion lines of code
