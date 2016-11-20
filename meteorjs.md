@@ -17,6 +17,8 @@ Was ist Meteor?
 	- data on the wire
 
 
+Four Minutes
+
 ## Fragen
 - Welche Features/Vorteile bietet Meteor.js, was andere Frameworks nicht bieten. 
 - Datenbanken?
@@ -43,4 +45,8 @@ Was ist Meteor?
 	- (blaze)[https://guide.meteor.com/blaze.html]
 	- observer pattern an variablen
 	- Aenderungen werden minimalinvasiv ins DOM gepackt
-	-
+- Meteor bring zusaetzlich zum Framework eine Build Umgebung mit
+	- kein extra tooling fuer build/deploy noetig!
+- Atmosphere: NPM-Pendant von (Meteor.js)[https://atmospherejs.com]
+	- install example: meteor add twbs:bootstrap
+	- client/server-teile der pakete sauber getrennt
