@@ -17,13 +17,20 @@ Was ist Meteor?
 	- data on the wire
 
 
-Four Minutes
+4minitz
+	- (github repo)[github.com/4minitz/4minitz]
+	- 3 Leute core team
+	- travis ci
+	- unit und end2end tests
+	- phantom.js bei den end2end tests als headless browser
+	- backlog in (waffle.io)[https://waffle.io/]
+	- (demo server)[4minitz.com]
 
 ## Fragen
 - Welche Features/Vorteile bietet Meteor.js, was andere Frameworks nicht bieten. 
 - Datenbanken?
 - Framework Features?
-- Template Engine
+- Template Engine? 
 
 ## Ideen 
 - 
